@@ -12,7 +12,7 @@ This document explains how to develop and implement flask-based front-end web si
 ### 2. Contents
 ---
 #### 2.1 Flask tiles using jinja2
-Using `jinja2`, you can implement seperated components in `html`, and integrate in single view. If you have multiple components in `html` based on default layer, such view components can bel included within default layer.
+Using `jinja2`, you can implement seperated components in `html`, and integrate in single view. If you have multiple components in `html` based on default layer, such view components can be included within default layer.
 
   > http://... 
 
@@ -29,4 +29,4 @@ Like `RPC` or `GRPC`, flask provides `flask-restful` package using http request.
 
 ### 3. Contribution
 ---
-Contribution are welcome!
+Contribution are invited!
